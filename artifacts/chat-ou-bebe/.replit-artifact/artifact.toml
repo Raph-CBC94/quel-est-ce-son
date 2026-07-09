@@ -1,0 +1,27 @@
+kind = "web"
+previewPath = "/"
+title = "Chat ou Bébé ?"
+version = "1.0.0"
+id = "artifacts/chat-ou-bebe"
+router = "path"
+
+[[services]]
+name = "web"
+paths = [ "/" ]
+localPort = 24177
+
+[services.development]
+run = "pnpm --filter @workspace/chat-ou-bebe run dev"
+
+[services.production]
+build = [ "pnpm", "--filter", "@workspace/chat-ou-bebe", "run", "build" ]
+serve = "static"
+publicDir = "artifacts/chat-ou-bebe/dist/public"
+
+[[services.production.rewrites]]
+from = "/*"
+to = "/index.html"
+
+[services.env]
+PORT = "24177"
+BASE_PATH = "/"

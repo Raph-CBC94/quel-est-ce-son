@@ -1,0 +1,62 @@
+uploads = []
+generated = []
+
+[[outputs]]
+id = "L3Hs0PYJ1Rw_9AEoC9YWY"
+uri = "file://artifacts/chat-ou-bebe/public/sounds/sound_01.mp3"
+type = "audio"
+title = "cat_meow_like_baby"
+
+[[outputs]]
+id = "SFv5l1zl0e0-NPhG4mkZi"
+uri = "file://artifacts/chat-ou-bebe/public/sounds/sound_03.mp3"
+type = "audio"
+title = "cat_yowl_like_baby_cry"
+
+[[outputs]]
+id = "OiLc4tmmN6KlmuMJpe_lu"
+uri = "file://artifacts/chat-ou-bebe/public/sounds/sound_04.mp3"
+type = "audio"
+title = "baby_coo_like_cat_purr"
+
+[[outputs]]
+id = "vpQc1uJdWpmRV2cKcZ7I4"
+uri = "file://artifacts/chat-ou-bebe/public/sounds/sound_07.mp3"
+type = "audio"
+title = "cat_chirp_like_baby_babble"
+
+[[outputs]]
+id = "Nqel8CaHlw2lE7EUJJ3pe"
+uri = "file://artifacts/chat-ou-bebe/public/sounds/sound_09.mp3"
+type = "audio"
+title = "cat_insistent_meow"
+
+[[outputs]]
+id = "QM-nyDwwxRs0WkujxlXHL"
+uri = "file://artifacts/chat-ou-bebe/public/sounds/sound_08.mp3"
+type = "audio"
+title = "baby_laugh_like_cat_trill"
+
+[[outputs]]
+id = "-l8MY4owi5yg0HDt9EbJb"
+uri = "file://artifacts/chat-ou-bebe/public/sounds/sound_10.mp3"
+type = "audio"
+title = "baby_mama_like_meow"
+
+[[outputs]]
+id = "DJwbyvF_tpwzfdUFSmTxC"
+uri = "file://artifacts/chat-ou-bebe/public/sounds/sound_06.mp3"
+type = "audio"
+title = "baby_fuss_like_cat_meow"
+
+[[outputs]]
+id = "wBtzVQs6uVyZnwlK7HtoS"
+uri = "file://artifacts/chat-ou-bebe/public/sounds/sound_05.mp3"
+type = "audio"
+title = "kitten_mew_like_newborn"
+
+[[outputs]]
+id = "hhlAJGNiL_tPy_fAU56q8"
+uri = "file://artifacts/chat-ou-bebe/public/sounds/sound_02.mp3"
+type = "audio"
+title = "baby_cry_like_kitten"
