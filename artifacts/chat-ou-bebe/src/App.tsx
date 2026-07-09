@@ -126,6 +126,128 @@ const CATEGORIES = {
       { file: 'sound_50.mp3', answer: 'moteur', hint: "Ce ronronnement aérien régulier..." },
     ],
   },
+  sportCalin: {
+    id: 'sport-calin',
+    title: 'Sport ou Câlin ?',
+    emoji: '🏋️💕',
+    subtitle: 'Effort physique ou moment intime ?',
+    optionA: { label: 'Sport', emoji: '🏋️', key: 'sport' as const },
+    optionB: { label: 'Câlin', emoji: '💕', key: 'calin' as const },
+    folder: 'sport-calin',
+    questions: [
+      { file: 'sound_01.mp3', answer: 'sport',  hint: "Ces grognements d'effort intense à la salle..." },
+      { file: 'sound_02.mp3', answer: 'calin',  hint: "Ces soupirs de contentement..." },
+      { file: 'sound_03.mp3', answer: 'sport',  hint: "Ces grognements de tennisman à chaque coup..." },
+      { file: 'sound_04.mp3', answer: 'calin',  hint: "Cette respiration qui s'accélère..." },
+      { file: 'sound_05.mp3', answer: 'sport',  hint: "Ces halètements de CrossFit..." },
+      { file: 'sound_06.mp3', answer: 'calin',  hint: "Ces murmures tendres..." },
+      { file: 'sound_07.mp3', answer: 'sport',  hint: "Cette respiration cardio haletante..." },
+      { file: 'sound_08.mp3', answer: 'calin',  hint: "Ce grincement rythmique..." },
+      { file: 'sound_09.mp3', answer: 'sport',  hint: "Ces expirations de boxeur..." },
+      { file: 'sound_10.mp3', answer: 'calin',  hint: "Ces gémissements de satisfaction profonde..." },
+      { file: 'sound_11.mp3', answer: 'sport',  hint: "Ces grognements de pompes..." },
+      { file: 'sound_12.mp3', answer: 'calin',  hint: "Cette respiration qui s'emballe..." },
+      { file: 'sound_13.mp3', answer: 'sport',  hint: "Cette respiration yoga ujjayi..." },
+      { file: 'sound_14.mp3', answer: 'calin',  hint: "Ces chuchotements tendres..." },
+      { file: 'sound_15.mp3', answer: 'sport',  hint: "Ces grognements de rameur..." },
+      { file: 'sound_16.mp3', answer: 'calin',  hint: "Ce matelas qui parle..." },
+      { file: 'sound_17.mp3', answer: 'sport',  hint: "Ce sprint à bout de souffle..." },
+      { file: 'sound_18.mp3', answer: 'calin',  hint: "Ces gémissements de contentement profond..." },
+      { file: 'sound_19.mp3', answer: 'sport',  hint: "Ces respirations contrôlées de pilates..." },
+      { file: 'sound_20.mp3', answer: 'calin',  hint: "Ces petits halètements de bonheur..." },
+      { file: 'sound_21.mp3', answer: 'sport',  hint: "Ce cri d'haltérophile olympique..." },
+      { file: 'sound_22.mp3', answer: 'calin',  hint: "Ces vocalises rythmiques croissantes..." },
+      { file: 'sound_23.mp3', answer: 'sport',  hint: "Ce sprint cycliste à plein régime..." },
+      { file: 'sound_24.mp3', answer: 'calin',  hint: "Ces murmures de plaisir doux..." },
+      { file: 'sound_25.mp3', answer: 'sport',  hint: "Cet épuisement total après HIIT..." },
+      { file: 'sound_26.mp3', answer: 'calin',  hint: "Ces soupirs intimes doux..." },
+      { file: 'sound_27.mp3', answer: 'sport',  hint: "Ce virage de nage haletant..." },
+      { file: 'sound_28.mp3', answer: 'calin',  hint: "Ces gémissements tendres mêlés..." },
+      { file: 'sound_29.mp3', answer: 'sport',  hint: "Ces expirations de gymnaste..." },
+      { file: 'sound_30.mp3', answer: 'calin',  hint: "Cette respiration rythmée apaisante..." },
+      { file: 'sound_31.mp3', answer: 'sport',  hint: "Ce cours de spinning en collectif..." },
+      { file: 'sound_32.mp3', answer: 'calin',  hint: "Ces petits cris de surprise ravie..." },
+      { file: 'sound_33.mp3', answer: 'sport',  hint: "Ce kiai de karatéka..." },
+      { file: 'sound_34.mp3', answer: 'calin',  hint: "Ce long soupir d'accomplissement..." },
+      { file: 'sound_35.mp3', answer: 'sport',  hint: "Cette montée d'escaliers à bout de souffle..." },
+      { file: 'sound_36.mp3', answer: 'calin',  hint: "Ces gémissements tendres et lents..." },
+      { file: 'sound_37.mp3', answer: 'sport',  hint: "Ce circuit burpees intensif..." },
+      { file: 'sound_38.mp3', answer: 'calin',  hint: "Ces vocalises qui montent en puissance..." },
+      { file: 'sound_39.mp3', answer: 'sport',  hint: "Ces coups sur le sac de frappe..." },
+      { file: 'sound_40.mp3', answer: 'calin',  hint: "Ces gémissements comblés et lents..." },
+      { file: 'sound_41.mp3', answer: 'sport',  hint: "Cette arrivée de course épuisante..." },
+      { file: 'sound_42.mp3', answer: 'calin',  hint: "Ces chuchotements amoureux..." },
+      { file: 'sound_43.mp3', answer: 'sport',  hint: "Ce soulevé de terre à la limite absolue..." },
+      { file: 'sound_44.mp3', answer: 'calin',  hint: "Ces rires et soupirs entremêlés..." },
+      { file: 'sound_45.mp3', answer: 'sport',  hint: "Ce fractionné sport-récup..." },
+      { file: 'sound_46.mp3', answer: 'calin',  hint: "Cette respiration qui s'intensifie..." },
+      { file: 'sound_47.mp3', answer: 'sport',  hint: "Cette corde à sauter rythmée..." },
+      { file: 'sound_48.mp3', answer: 'calin',  hint: "Ces sons intimes à peine audibles..." },
+      { file: 'sound_49.mp3', answer: 'sport',  hint: "Ce sprint de compétition désespéré..." },
+      { file: 'sound_50.mp3', answer: 'calin',  hint: "Ce dernier soupir de plénitude totale..." },
+    ],
+  },
+  massageGalipette: {
+    id: 'massage-galipette',
+    title: 'Massage ou Galipette ?',
+    emoji: '💆🙈',
+    subtitle: 'Thérapie ou frivolité ?',
+    optionA: { label: 'Massage', emoji: '💆', key: 'massage' as const },
+    optionB: { label: 'Galipette', emoji: '🙈', key: 'galipette' as const },
+    folder: 'massage-galipette',
+    questions: [
+      { file: 'sound_01.mp3', answer: 'massage',   hint: "Ce long gémissement de libération musculaire..." },
+      { file: 'sound_02.mp3', answer: 'galipette', hint: "Ces sons rythmiques légers et joueurs..." },
+      { file: 'sound_03.mp3', answer: 'massage',   hint: "Ce grognement de massage des tissus profonds..." },
+      { file: 'sound_04.mp3', answer: 'galipette', hint: "Cette respiration intime douce et lente..." },
+      { file: 'sound_05.mp3', answer: 'massage',   hint: "Ce soupir de pierres chaudes posées sur le dos..." },
+      { file: 'sound_06.mp3', answer: 'galipette', hint: "Ces rires doux qui virent aux soupirs..." },
+      { file: 'sound_07.mp3', answer: 'massage',   hint: "Ce grognement de massage des ischio-jambiers..." },
+      { file: 'sound_08.mp3', answer: 'galipette', hint: "Ces vocalises rythmiques répétées..." },
+      { file: 'sound_09.mp3', answer: 'massage',   hint: "Ce long relâchement en massage suédois..." },
+      { file: 'sound_10.mp3', answer: 'galipette', hint: "Ces halètements intimes mêlés de soupirs..." },
+      { file: 'sound_11.mp3', answer: 'massage',   hint: "Ces cris de réflexologie plantaire..." },
+      { file: 'sound_12.mp3', answer: 'galipette', hint: "Ces sons urgents et intimes..." },
+      { file: 'sound_13.mp3', answer: 'massage',   hint: "Ce grognement d'étirement en massage thaï..." },
+      { file: 'sound_14.mp3', answer: 'galipette', hint: "Ces murmures doux de complicité..." },
+      { file: 'sound_15.mp3', answer: 'massage',   hint: "Ce soulagement d'un nœud libéré..." },
+      { file: 'sound_16.mp3', answer: 'galipette', hint: "Ces sons intimes qui s'amplifient doucement..." },
+      { file: 'sound_17.mp3', answer: 'massage',   hint: "Ces mmmmm de spa de luxe..." },
+      { file: 'sound_18.mp3', answer: 'galipette', hint: "Ces petits cris surpris et ravis..." },
+      { file: 'sound_19.mp3', answer: 'massage',   hint: "Ce gémissement de massage sportif..." },
+      { file: 'sound_20.mp3', answer: 'galipette', hint: "Ces vocalises de plaisir qui montent..." },
+      { file: 'sound_21.mp3', answer: 'massage',   hint: "Ce relâchement crânio-sacré profond..." },
+      { file: 'sound_22.mp3', answer: 'galipette', hint: "Ces sons légers et joueurs et tendres..." },
+      { file: 'sound_23.mp3', answer: 'massage',   hint: "Ce cri-soulagement d'un trigger point..." },
+      { file: 'sound_24.mp3', answer: 'galipette', hint: "Ces gémissements profonds d'intimité..." },
+      { file: 'sound_25.mp3', answer: 'massage',   hint: "Cet exhale de massage corps entier à l'huile..." },
+      { file: 'sound_26.mp3', answer: 'galipette', hint: "Ces vocalises intimes qui s'amplifient..." },
+      { file: 'sound_27.mp3', answer: 'massage',   hint: "Ce soupir d'aromathérapie..." },
+      { file: 'sound_28.mp3', answer: 'galipette', hint: "Ces sons de tendresse rythmés..." },
+      { file: 'sound_29.mp3', answer: 'massage',   hint: "Ces grognements de shiatsu..." },
+      { file: 'sound_30.mp3', answer: 'galipette', hint: "Ces vocalises de rapprochement répétées..." },
+      { file: 'sound_31.mp3', answer: 'massage',   hint: "Ces gémissements de massage du cuir chevelu..." },
+      { file: 'sound_32.mp3', answer: 'galipette', hint: "Ces rires qui virent en soupirs tendres..." },
+      { file: 'sound_33.mp3', answer: 'massage',   hint: "Ces cris de massage au bambou..." },
+      { file: 'sound_34.mp3', answer: 'galipette', hint: "Ces sons intimes qui montent en puissance..." },
+      { file: 'sound_35.mp3', answer: 'massage',   hint: "Ce choc froid puis long gémissement de glace..." },
+      { file: 'sound_36.mp3', answer: 'galipette', hint: "Ces sons tendres et affectueux..." },
+      { file: 'sound_37.mp3', answer: 'massage',   hint: "Ce cri de ventouses en massage..." },
+      { file: 'sound_38.mp3', answer: 'galipette', hint: "Ces soupirs intimes sans voix..." },
+      { file: 'sound_39.mp3', answer: 'massage',   hint: "Ce long relâchement en lomi lomi..." },
+      { file: 'sound_40.mp3', answer: 'galipette', hint: "Ces sons chauds de complicité partagée..." },
+      { file: 'sound_41.mp3', answer: 'massage',   hint: "Ce 'ahhhh' de fascia qui lâche enfin..." },
+      { file: 'sound_42.mp3', answer: 'galipette', hint: "Ces sons intimes à leur paroxysme..." },
+      { file: 'sound_43.mp3', answer: 'massage',   hint: "Ce cri douloureux-plaisant de bandelette IT..." },
+      { file: 'sound_44.mp3', answer: 'galipette', hint: "Ces soupirs qui s'apaisent doucement..." },
+      { file: 'sound_45.mp3', answer: 'massage',   hint: "Ce soulagement en massage prénatal..." },
+      { file: 'sound_46.mp3', answer: 'galipette', hint: "Ces sons intimes lents et profonds..." },
+      { file: 'sound_47.mp3', answer: 'massage',   hint: "Ce cri du massage cervical au bureau..." },
+      { file: 'sound_48.mp3', answer: 'galipette', hint: "Ces murmures à peine audibles d'intimité..." },
+      { file: 'sound_49.mp3', answer: 'massage',   hint: "Ce dernier gémissement de fin de séance..." },
+      { file: 'sound_50.mp3', answer: 'galipette', hint: "Ce long soupir final d'épanouissement..." },
+    ],
+  },
 };
 
 const MESSAGES = {
@@ -167,6 +289,42 @@ const MESSAGES = {
     wrongThoughtB: [
       "Piégé(e) ! Ce ronflement était digne d'un moteur 😂", 
       "Cet humain devrait faire réviser ses voies respiratoires !"
+    ]
+  },
+  sportCalin: {
+    correctA: [
+      "C'était bien du sport ! Vos oreilles ne mentent pas 🏋️",
+      "Champion(ne) ! Ce gémissement était clairement de l'effort !"
+    ],
+    correctB: [
+      "Bien vu ! Ce câlin ne vous a pas trompé(e) 💕",
+      "Vous avez l'oreille fine pour les tendresses !"
+    ],
+    wrongThoughtA: [
+      "Raté ! Ce n'était pas de la gym 😏",
+      "Ce n'était pas de l'haltérophilie... mais presque aussi intense 😂"
+    ],
+    wrongThoughtB: [
+      "Piégé(e) ! C'était bien du sport 😂",
+      "Ces athlètes mériteraient un Oscar du gémissement !"
+    ]
+  },
+  massageGalipette: {
+    correctA: [
+      "C'était du massage ! Vos oreilles voient clair 💆",
+      "Bravo ! Ce praticien est innocent !"
+    ],
+    correctB: [
+      "Bien vu ! Ce n'était pas thérapeutique 🙈",
+      "L'oreille exercée ne trompe pas !"
+    ],
+    wrongThoughtA: [
+      "Raté ! Ce n'était pas une thérapie 😏",
+      "Ce kinésithérapeute va avoir une surprise..."
+    ],
+    wrongThoughtB: [
+      "Piégé(e) ! C'était purement médical 😂",
+      "Ce masseur mérite une plainte pour ambiguïté sonore !"
     ]
   }
 };
@@ -315,7 +473,10 @@ function App() {
                   key={key}
                   onClick={() => { setSelectedCatKey(key); setAppState('config'); }}
                   className={`relative p-8 rounded-[2.5rem] bubbly-shadow transition-all group flex flex-col items-center gap-4 ${
-                    key === 'chatBebe' ? 'bg-secondary text-secondary-foreground' : 'bg-primary text-primary-foreground'
+                    key === 'chatBebe' ? 'bg-secondary text-secondary-foreground' : 
+                    key === 'ronflementMoteur' ? 'bg-primary text-primary-foreground' : 
+                    key === 'sportCalin' ? 'bg-[#ff4500] text-white' : 
+                    'bg-[#673ab7] text-white'
                   }`}
                 >
                   <div className="text-7xl md:text-8xl group-hover:scale-110 transition-transform duration-300 ease-out mb-2">

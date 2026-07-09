@@ -468,3 +468,483 @@ id = "NVMoezXfuGoxJlCbewSbZ"
 uri = "file://artifacts/chat-ou-bebe/public/sounds/ronflement-moteur/sound_49.mp3"
 type = "audio"
 title = "snoring_irregular_rapid"
+
+[[outputs]]
+id = "zJO6UfKrXWNUQqQ-51wpW"
+uri = "file://artifacts/chat-ou-bebe/public/sounds/sport-calin/sound_01.mp3"
+type = "audio"
+title = "weightlift_grunt"
+
+[[outputs]]
+id = "Qdv--gy5ALBjwxzgEoQLp"
+uri = "file://artifacts/chat-ou-bebe/public/sounds/sport-calin/sound_03.mp3"
+type = "audio"
+title = "tennis_grunt"
+
+[[outputs]]
+id = "EgXDgf907K0Vb20tkeNSu"
+uri = "file://artifacts/chat-ou-bebe/public/sounds/sport-calin/sound_07.mp3"
+type = "audio"
+title = "cardio_panting"
+
+[[outputs]]
+id = "-nTFgxdGyOE9G28DkprYF"
+uri = "file://artifacts/chat-ou-bebe/public/sounds/sport-calin/sound_05.mp3"
+type = "audio"
+title = "crossfit_burpees"
+
+[[outputs]]
+id = "3dDFnfHXUEEmURKWwIv8e"
+uri = "file://artifacts/chat-ou-bebe/public/sounds/sport-calin/sound_04.mp3"
+type = "audio"
+title = "rhythmic_breathing_build"
+
+[[outputs]]
+id = "jj8ftIc20O0Im8Vqr7kOd"
+uri = "file://artifacts/chat-ou-bebe/public/sounds/sport-calin/sound_11.mp3"
+type = "audio"
+title = "pushups_grunt"
+
+[[outputs]]
+id = "-wxNuGcxSwaOpplcyp9mX"
+uri = "file://artifacts/chat-ou-bebe/public/sounds/sport-calin/sound_13.mp3"
+type = "audio"
+title = "yoga_ujjayi_breath"
+
+[[outputs]]
+id = "taEdhy4Oe4h0mRCrVJE2x"
+uri = "file://artifacts/chat-ou-bebe/public/sounds/sport-calin/sound_12.mp3"
+type = "audio"
+title = "escalating_breath"
+
+[[outputs]]
+id = "7lrddC3H79JqizccHmTUm"
+uri = "file://artifacts/chat-ou-bebe/public/sounds/sport-calin/sound_06.mp3"
+type = "audio"
+title = "soft_murmuring"
+
+[[outputs]]
+id = "xymUBf0iC1lHHBKnlJYSn"
+uri = "file://artifacts/chat-ou-bebe/public/sounds/sport-calin/sound_10.mp3"
+type = "audio"
+title = "contentment_moaning"
+
+[[outputs]]
+id = "CbVWg_QGI4rmDfdZyHTIb"
+uri = "file://artifacts/chat-ou-bebe/public/sounds/sport-calin/sound_08.mp3"
+type = "audio"
+title = "creaking_breathing"
+
+[[outputs]]
+id = "is60FuVh2OduaoScfnl6F"
+uri = "file://artifacts/chat-ou-bebe/public/sounds/sport-calin/sound_14.mp3"
+type = "audio"
+title = "tender_whispers"
+
+[[outputs]]
+id = "RySf8g4UT9o7bmie7uY1C"
+uri = "file://artifacts/chat-ou-bebe/public/sounds/sport-calin/sound_17.mp3"
+type = "audio"
+title = "sprint_panting"
+
+[[outputs]]
+id = "W78bM8B0P_R9taS9yu48b"
+uri = "file://artifacts/chat-ou-bebe/public/sounds/sport-calin/sound_21.mp3"
+type = "audio"
+title = "olympic_lift_max"
+
+[[outputs]]
+id = "rN6tUynDVBIkH0q1xi3i7"
+uri = "file://artifacts/chat-ou-bebe/public/sounds/sport-calin/sound_20.mp3"
+type = "audio"
+title = "soft_gasping"
+
+[[outputs]]
+id = "cIQml7YkM9ZDkvfnqT7Yh"
+uri = "file://artifacts/chat-ou-bebe/public/sounds/sport-calin/sound_15.mp3"
+type = "audio"
+title = "rowing_exertion"
+
+[[outputs]]
+id = "_4uLFdJmfqJUHBVcCym03"
+uri = "file://artifacts/chat-ou-bebe/public/sounds/sport-calin/sound_22.mp3"
+type = "audio"
+title = "rhythmic_moaning"
+
+[[outputs]]
+id = "P1ElfGLovD2ncOG8f49wo"
+uri = "file://artifacts/chat-ou-bebe/public/sounds/sport-calin/sound_23.mp3"
+type = "audio"
+title = "cycling_sprint"
+
+[[outputs]]
+id = "4YZOKBQE207aUagWJzunC"
+uri = "file://artifacts/chat-ou-bebe/public/sounds/sport-calin/sound_24.mp3"
+type = "audio"
+title = "pleasure_murmurs"
+
+[[outputs]]
+id = "rT2l1YTfTM5xhDw2OAoFy"
+uri = "file://artifacts/chat-ou-bebe/public/sounds/sport-calin/sound_29.mp3"
+type = "audio"
+title = "gymnastics_exertion"
+
+[[outputs]]
+id = "9jSDhUs0EL2qnidfRQS9s"
+uri = "file://artifacts/chat-ou-bebe/public/sounds/sport-calin/sound_19.mp3"
+type = "audio"
+title = "pilates_breathing"
+
+[[outputs]]
+id = "w2vXgyNK3DUl6YyXqwOXL"
+uri = "file://artifacts/chat-ou-bebe/public/sounds/sport-calin/sound_26.mp3"
+type = "audio"
+title = "gentle_intimate_sighs"
+
+[[outputs]]
+id = "MWIh8YD0PmSm-I-dqrDZf"
+uri = "file://artifacts/chat-ou-bebe/public/sounds/sport-calin/sound_30.mp3"
+type = "audio"
+title = "gentle_rhythmic_sighs"
+
+[[outputs]]
+id = "XpM3X2g-RT_h1UEQXaABL"
+uri = "file://artifacts/chat-ou-bebe/public/sounds/sport-calin/sound_32.mp3"
+type = "audio"
+title = "surprised_pleasure_gasps"
+
+[[outputs]]
+id = "i7FNcu6CQv7EtJjA4hCPk"
+uri = "file://artifacts/chat-ou-bebe/public/sounds/sport-calin/sound_31.mp3"
+type = "audio"
+title = "spin_class_breathing"
+
+[[outputs]]
+id = "UVMphqCaLvjfh_hQ13MVB"
+uri = "file://artifacts/chat-ou-bebe/public/sounds/sport-calin/sound_33.mp3"
+type = "audio"
+title = "karate_kiai"
+
+[[outputs]]
+id = "BusPuv_-3nvKYJUcDx9CI"
+uri = "file://artifacts/chat-ou-bebe/public/sounds/sport-calin/sound_35.mp3"
+type = "audio"
+title = "stair_climbing_breath"
+
+[[outputs]]
+id = "9uvYTOP9vESQMNCseiSUG"
+uri = "file://artifacts/chat-ou-bebe/public/sounds/sport-calin/sound_36.mp3"
+type = "audio"
+title = "tender_moaning"
+
+[[outputs]]
+id = "UitgN95jZn-WUYkk4-RDo"
+uri = "file://artifacts/chat-ou-bebe/public/sounds/sport-calin/sound_39.mp3"
+type = "audio"
+title = "heavybag_boxing"
+
+[[outputs]]
+id = "HGKo3X0ISbjX63SeW0Ihr"
+uri = "file://artifacts/chat-ou-bebe/public/sounds/sport-calin/sound_38.mp3"
+type = "audio"
+title = "building_vocalizations"
+
+[[outputs]]
+id = "KUxcKkJGq44BX1XhSVu4j"
+uri = "file://artifacts/chat-ou-bebe/public/sounds/sport-calin/sound_41.mp3"
+type = "audio"
+title = "finish_line_gasp"
+
+[[outputs]]
+id = "6oNc8GDo-5zsy_QrjdMEo"
+uri = "file://artifacts/chat-ou-bebe/public/sounds/sport-calin/sound_42.mp3"
+type = "audio"
+title = "loving_whispers_sighs"
+
+[[outputs]]
+id = "WNKc-ecr6BEt3pPbAHm-n"
+uri = "file://artifacts/chat-ou-bebe/public/sounds/sport-calin/sound_44.mp3"
+type = "audio"
+title = "playful_intimate_giggles"
+
+[[outputs]]
+id = "yzD2vDWvVnHKiX-mh2Dtz"
+uri = "file://artifacts/chat-ou-bebe/public/sounds/sport-calin/sound_47.mp3"
+type = "audio"
+title = "jumprope_rhythm"
+
+[[outputs]]
+id = "zdOgnLoEVfsQDlX5pHAdG"
+uri = "file://artifacts/chat-ou-bebe/public/sounds/sport-calin/sound_37.mp3"
+type = "audio"
+title = "burpee_rhythm"
+
+[[outputs]]
+id = "4Wd__4mhtEdJa62DNIH5E"
+uri = "file://artifacts/chat-ou-bebe/public/sounds/sport-calin/sound_46.mp3"
+type = "audio"
+title = "escalating_urgent_breath"
+
+[[outputs]]
+id = "iZx57w_M4veDL6iSbz3AO"
+uri = "file://artifacts/chat-ou-bebe/public/sounds/sport-calin/sound_48.mp3"
+type = "audio"
+title = "barely_audible_tender"
+
+[[outputs]]
+id = "5lOGIEWU6iosNv9mD8xnO"
+uri = "file://artifacts/chat-ou-bebe/public/sounds/sport-calin/sound_40.mp3"
+type = "audio"
+title = "contented_moaning"
+
+[[outputs]]
+id = "XHpo3fJivOahUVwD94Tb4"
+uri = "file://artifacts/chat-ou-bebe/public/sounds/massage-galipette/sound_01.mp3"
+type = "audio"
+title = "massage_neck_relief"
+
+[[outputs]]
+id = "oCqabxcr_mSks5XOQv-Xu"
+uri = "file://artifacts/chat-ou-bebe/public/sounds/sport-calin/sound_49.mp3"
+type = "audio"
+title = "race_desperate_gasp"
+
+[[outputs]]
+id = "1hq1JYkX9cAPisnNdTmeE"
+uri = "file://artifacts/chat-ou-bebe/public/sounds/sport-calin/sound_50.mp3"
+type = "audio"
+title = "final_contentment"
+
+[[outputs]]
+id = "hfTpffNy7xKBr-359-a7i"
+uri = "file://artifacts/chat-ou-bebe/public/sounds/massage-galipette/sound_04.mp3"
+type = "audio"
+title = "intimate_breathing_soft"
+
+[[outputs]]
+id = "_4ZHi8_pCM3lsygGTdXLL"
+uri = "file://artifacts/chat-ou-bebe/public/sounds/massage-galipette/sound_02.mp3"
+type = "audio"
+title = "galipette_playful"
+
+[[outputs]]
+id = "gz5ReeSUQCSQ2-3RF8W3b"
+uri = "file://artifacts/chat-ou-bebe/public/sounds/massage-galipette/sound_07.mp3"
+type = "audio"
+title = "massage_thigh_grunt"
+
+[[outputs]]
+id = "FDKJsvHqyG7hLJewNgHtp"
+uri = "file://artifacts/chat-ou-bebe/public/sounds/massage-galipette/sound_08.mp3"
+type = "audio"
+title = "rhythmic_intimate_vocals"
+
+[[outputs]]
+id = "iJiBrmrJ68fTMAoP2SOHF"
+uri = "file://artifacts/chat-ou-bebe/public/sounds/massage-galipette/sound_10.mp3"
+type = "audio"
+title = "breathless_tender_moans"
+
+[[outputs]]
+id = "RByFOvfjkfuO3sOcr-Cun"
+uri = "file://artifacts/chat-ou-bebe/public/sounds/massage-galipette/sound_09.mp3"
+type = "audio"
+title = "swedish_massage_release"
+
+[[outputs]]
+id = "MM0D3hQx8-JjtB7cRVSch"
+uri = "file://artifacts/chat-ou-bebe/public/sounds/massage-galipette/sound_13.mp3"
+type = "audio"
+title = "thai_massage_stretch_groan"
+
+[[outputs]]
+id = "MmSlvYLdvbpZqF-8hAWD9"
+uri = "file://artifacts/chat-ou-bebe/public/sounds/massage-galipette/sound_12.mp3"
+type = "audio"
+title = "urgent_intimate_sounds"
+
+[[outputs]]
+id = "VXoggI3JSwall6PMOYRzT"
+uri = "file://artifacts/chat-ou-bebe/public/sounds/massage-galipette/sound_14.mp3"
+type = "audio"
+title = "intimate_murmuring_warm"
+
+[[outputs]]
+id = "iaBl7ZKbPLocLeMS_cOp-"
+uri = "file://artifacts/chat-ou-bebe/public/sounds/massage-galipette/sound_05.mp3"
+type = "audio"
+title = "hot_stone_massage_moan"
+
+[[outputs]]
+id = "w5xDcUH3S_H8ECPvvoi2C"
+uri = "file://artifacts/chat-ou-bebe/public/sounds/massage-galipette/sound_17.mp3"
+type = "audio"
+title = "spa_mmmm_sighs"
+
+[[outputs]]
+id = "zaDOAQBfKUqsk1B7E4pEc"
+uri = "file://artifacts/chat-ou-bebe/public/sounds/massage-galipette/sound_16.mp3"
+type = "audio"
+title = "gentle_escalating_intimate"
+
+[[outputs]]
+id = "JIMSmJzx2KttzcYJkXFyu"
+uri = "file://artifacts/chat-ou-bebe/public/sounds/massage-galipette/sound_19.mp3"
+type = "audio"
+title = "sports_massage_groan"
+
+[[outputs]]
+id = "FOEWufEANRkzFoT9LXHJz"
+uri = "file://artifacts/chat-ou-bebe/public/sounds/massage-galipette/sound_15.mp3"
+type = "audio"
+title = "massage_knot_relief"
+
+[[outputs]]
+id = "nQ9u8xeFSRMu_jcUU5mym"
+uri = "file://artifacts/chat-ou-bebe/public/sounds/massage-galipette/sound_21.mp3"
+type = "audio"
+title = "craniosacral_deep_release"
+
+[[outputs]]
+id = "RPg9sp77mkTCzmugUvZXh"
+uri = "file://artifacts/chat-ou-bebe/public/sounds/massage-galipette/sound_22.mp3"
+type = "audio"
+title = "playful_tender_light"
+
+[[outputs]]
+id = "FHXfU4zEjhTmHff4VwEGW"
+uri = "file://artifacts/chat-ou-bebe/public/sounds/massage-galipette/sound_23.mp3"
+type = "audio"
+title = "trigger_point_cry_relief"
+
+[[outputs]]
+id = "nVzTuRcGQcA81g_LgNaEV"
+uri = "file://artifacts/chat-ou-bebe/public/sounds/massage-galipette/sound_25.mp3"
+type = "audio"
+title = "full_body_massage_exhale"
+
+[[outputs]]
+id = "_D0zOqoPquG4tzb9eih54"
+uri = "file://artifacts/chat-ou-bebe/public/sounds/massage-galipette/sound_27.mp3"
+type = "audio"
+title = "aromatherapy_bliss_moan"
+
+[[outputs]]
+id = "PjZA2uGQgBXBplHWq734Y"
+uri = "file://artifacts/chat-ou-bebe/public/sounds/massage-galipette/sound_24.mp3"
+type = "audio"
+title = "deep_intimate_closeness"
+
+[[outputs]]
+id = "Wjjh7Hw-8EWCo_K1kcnec"
+uri = "file://artifacts/chat-ou-bebe/public/sounds/massage-galipette/sound_26.mp3"
+type = "audio"
+title = "intimate_escalating_warm"
+
+[[outputs]]
+id = "EaByo3VPhc5hgdCF1l-4_"
+uri = "file://artifacts/chat-ou-bebe/public/sounds/massage-galipette/sound_30.mp3"
+type = "audio"
+title = "rhythmic_closeness_vocals"
+
+[[outputs]]
+id = "P-ELVFLrCZXQ-yhiU03it"
+uri = "file://artifacts/chat-ou-bebe/public/sounds/massage-galipette/sound_28.mp3"
+type = "audio"
+title = "tender_motion_moans"
+
+[[outputs]]
+id = "oJ5iFpnCnDzEnQxt6AaNM"
+uri = "file://artifacts/chat-ou-bebe/public/sounds/massage-galipette/sound_32.mp3"
+type = "audio"
+title = "giggles_turning_sighs"
+
+[[outputs]]
+id = "rquE9oqv2FNoCfoXBn_qr"
+uri = "file://artifacts/chat-ou-bebe/public/sounds/massage-galipette/sound_33.mp3"
+type = "audio"
+title = "bamboo_massage_groans"
+
+[[outputs]]
+id = "eDEZD1UltCbhLW8IQTA1s"
+uri = "file://artifacts/chat-ou-bebe/public/sounds/massage-galipette/sound_29.mp3"
+type = "audio"
+title = "shiatsu_pressure_grunts"
+
+[[outputs]]
+id = "lSoMGPeKDYqNBbI8hnrja"
+uri = "file://artifacts/chat-ou-bebe/public/sounds/massage-galipette/sound_36.mp3"
+type = "audio"
+title = "warm_affection_sounds"
+
+[[outputs]]
+id = "OIMvcl1gv1AnM77Zpa-c0"
+uri = "file://artifacts/chat-ou-bebe/public/sounds/massage-galipette/sound_37.mp3"
+type = "audio"
+title = "cupping_surprised_gasp"
+
+[[outputs]]
+id = "0ALP4JqczU0Fa0ue3PjO5"
+uri = "file://artifacts/chat-ou-bebe/public/sounds/massage-galipette/sound_39.mp3"
+type = "audio"
+title = "lomilomi_deep_exhale"
+
+[[outputs]]
+id = "GyowCaT4mo7uOMvM0vgU7"
+uri = "file://artifacts/chat-ou-bebe/public/sounds/massage-galipette/sound_41.mp3"
+type = "audio"
+title = "myofascial_release_ahh"
+
+[[outputs]]
+id = "0U7rSAx7CPusXX4oLfydA"
+uri = "file://artifacts/chat-ou-bebe/public/sounds/massage-galipette/sound_40.mp3"
+type = "audio"
+title = "mutual_warmth_vocals"
+
+[[outputs]]
+id = "DxThMTCCrEc2SNghH4V41"
+uri = "file://artifacts/chat-ou-bebe/public/sounds/massage-galipette/sound_43.mp3"
+type = "audio"
+title = "it_band_painful_relief"
+
+[[outputs]]
+id = "j4mPuE4sj0draJv7DY9_0"
+uri = "file://artifacts/chat-ou-bebe/public/sounds/massage-galipette/sound_42.mp3"
+type = "audio"
+title = "peak_intimate_warmth"
+
+[[outputs]]
+id = "k3wgcATDLjrh1tyIcXO3U"
+uri = "file://artifacts/chat-ou-bebe/public/sounds/massage-galipette/sound_45.mp3"
+type = "audio"
+title = "prenatal_massage_relief"
+
+[[outputs]]
+id = "7dVGrREqPJ00gjQJZsnkP"
+uri = "file://artifacts/chat-ou-bebe/public/sounds/massage-galipette/sound_48.mp3"
+type = "audio"
+title = "whispered_intimate_murmurs"
+
+[[outputs]]
+id = "3b6PEXIuUhEru8pxbc-Me"
+uri = "file://artifacts/chat-ou-bebe/public/sounds/massage-galipette/sound_49.mp3"
+type = "audio"
+title = "final_massage_moan"
+
+[[outputs]]
+id = "VQNFUalFd50CjirFED9kW"
+uri = "file://artifacts/chat-ou-bebe/public/sounds/massage-galipette/sound_50.mp3"
+type = "audio"
+title = "final_intimate_exhale"
+
+[[outputs]]
+id = "BjIDefC8IYJXmTeVdDUNx"
+uri = "file://artifacts/chat-ou-bebe/public/sounds/massage-galipette/sound_47.mp3"
+type = "audio"
+title = "office_massage_surprise"
+
+[[outputs]]
+id = "JbJ7oOPDuMoF4EynUzLcA"
+uri = "file://artifacts/chat-ou-bebe/public/sounds/massage-galipette/sound_46.mp3"
+type = "audio"
+title = "slow_intimate_drawout"
