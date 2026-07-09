@@ -60,3 +60,411 @@ id = "hhlAJGNiL_tPy_fAU56q8"
 uri = "file://artifacts/chat-ou-bebe/public/sounds/sound_02.mp3"
 type = "audio"
 title = "baby_cry_like_kitten"
+
+[[outputs]]
+id = "Fdj0UNM74HwhoBhK_rk4F"
+uri = "file://artifacts/chat-ou-bebe/public/sounds/chat-bebe/sound_11.mp3"
+type = "audio"
+title = "cat_door_plea"
+
+[[outputs]]
+id = "nPxEWT1I78f_NiWEJKxKw"
+uri = "file://artifacts/chat-ou-bebe/public/sounds/chat-bebe/sound_13.mp3"
+type = "audio"
+title = "cat_nooo_meow"
+
+[[outputs]]
+id = "Z3J1pzRtHQiMMG7KtZ4iC"
+uri = "file://artifacts/chat-ou-bebe/public/sounds/chat-bebe/sound_14.mp3"
+type = "audio"
+title = "baby_single_cry"
+
+[[outputs]]
+id = "KhQ2_A6osZ7vwD7e28EsG"
+uri = "file://artifacts/chat-ou-bebe/public/sounds/chat-bebe/sound_19.mp3"
+type = "audio"
+title = "cat_separation_calls"
+
+[[outputs]]
+id = "tC9YdEDswfRFu2pm9Puhc"
+uri = "file://artifacts/chat-ou-bebe/public/sounds/chat-bebe/sound_20.mp3"
+type = "audio"
+title = "baby_excited_screech"
+
+[[outputs]]
+id = "xGv71wYPGZ6WgGV1EH089"
+uri = "file://artifacts/chat-ou-bebe/public/sounds/chat-bebe/sound_23.mp3"
+type = "audio"
+title = "cat_questioning_mew"
+
+[[outputs]]
+id = "eF_XGIoJ9xviBQJbWhmzr"
+uri = "file://artifacts/chat-ou-bebe/public/sounds/chat-bebe/sound_25.mp3"
+type = "audio"
+title = "cat_wake_up_meow"
+
+[[outputs]]
+id = "-tjScWpjuVyCY900IDIP5"
+uri = "file://artifacts/chat-ou-bebe/public/sounds/chat-bebe/sound_26.mp3"
+type = "audio"
+title = "baby_questioning"
+
+[[outputs]]
+id = "Ei6u74hNqwMsHc8N6MgMb"
+uri = "file://artifacts/chat-ou-bebe/public/sounds/chat-bebe/sound_27.mp3"
+type = "audio"
+title = "cat_complaining"
+
+[[outputs]]
+id = "LZclWvBoNSIQKNjbItFHG"
+uri = "file://artifacts/chat-ou-bebe/public/sounds/chat-bebe/sound_29.mp3"
+type = "audio"
+title = "cat_prey_chatter"
+
+[[outputs]]
+id = "E-vSFr9LsYim6TEvxW3TX"
+uri = "file://artifacts/chat-ou-bebe/public/sounds/chat-bebe/sound_30.mp3"
+type = "audio"
+title = "baby_squeal_laugh"
+
+[[outputs]]
+id = "T1KX9tTG_TpfX_NBFh88L"
+uri = "file://artifacts/chat-ou-bebe/public/sounds/chat-bebe/sound_33.mp3"
+type = "audio"
+title = "cat_food_demand"
+
+[[outputs]]
+id = "uzjOSamKzz7M25Qb8tZlY"
+uri = "file://artifacts/chat-ou-bebe/public/sounds/chat-bebe/sound_35.mp3"
+type = "audio"
+title = "cat_grumpy"
+
+[[outputs]]
+id = "HikqQy8N7BskWWzQ3zBKs"
+uri = "file://artifacts/chat-ou-bebe/public/sounds/chat-bebe/sound_36.mp3"
+type = "audio"
+title = "baby_startled"
+
+[[outputs]]
+id = "73UvlBqsn2saZDIOg9Hs7"
+uri = "file://artifacts/chat-ou-bebe/public/sounds/chat-bebe/sound_37.mp3"
+type = "audio"
+title = "cat_tiny_question"
+
+[[outputs]]
+id = "Op-KxQD5ed_YrcdAMRcJz"
+uri = "file://artifacts/chat-ou-bebe/public/sounds/chat-bebe/sound_38.mp3"
+type = "audio"
+title = "baby_feeding_sounds"
+
+[[outputs]]
+id = "rehVktpUwN5XpELHpF3Ct"
+uri = "file://artifacts/chat-ou-bebe/public/sounds/chat-bebe/sound_39.mp3"
+type = "audio"
+title = "cat_demanding"
+
+[[outputs]]
+id = "57V2nJgaUL0afnN_eWnWN"
+uri = "file://artifacts/chat-ou-bebe/public/sounds/chat-bebe/sound_41.mp3"
+type = "audio"
+title = "cat_content_trill"
+
+[[outputs]]
+id = "JBYNvtbsLKi-CQX6xso08"
+uri = "file://artifacts/chat-ou-bebe/public/sounds/chat-bebe/sound_42.mp3"
+type = "audio"
+title = "baby_melodic_play"
+
+[[outputs]]
+id = "oSIB8L0lTQcFluO3NCPaq"
+uri = "file://artifacts/chat-ou-bebe/public/sounds/chat-bebe/sound_40.mp3"
+type = "audio"
+title = "baby_impatient"
+
+[[outputs]]
+id = "p2jV_9ld38Ilk-cNnglAG"
+uri = "file://artifacts/chat-ou-bebe/public/sounds/chat-bebe/sound_43.mp3"
+type = "audio"
+title = "cat_hiss_squeal"
+
+[[outputs]]
+id = "OhYC_5f52FMO8onMkJgnj"
+uri = "file://artifacts/chat-ou-bebe/public/sounds/chat-bebe/sound_45.mp3"
+type = "audio"
+title = "cat_whisper_meow"
+
+[[outputs]]
+id = "9veeHkLDq-VMRoQLVRs1H"
+uri = "file://artifacts/chat-ou-bebe/public/sounds/chat-bebe/sound_44.mp3"
+type = "audio"
+title = "baby_quiet_whimper"
+
+[[outputs]]
+id = "vMfGYsogQ5adaQp48e3JN"
+uri = "file://artifacts/chat-ou-bebe/public/sounds/chat-bebe/sound_48.mp3"
+type = "audio"
+title = "baby_sustained_cry"
+
+[[outputs]]
+id = "k6Qv2kvzp1sAYfhykwVF_"
+uri = "file://artifacts/chat-ou-bebe/public/sounds/chat-bebe/sound_47.mp3"
+type = "audio"
+title = "cat_rapid_mew"
+
+[[outputs]]
+id = "zv8IGpXvGByNhd5SBd7FS"
+uri = "file://artifacts/chat-ou-bebe/public/sounds/chat-bebe/sound_46.mp3"
+type = "audio"
+title = "baby_excited_play"
+
+[[outputs]]
+id = "YfMRVX6LBD13h8olcGjIs"
+uri = "file://artifacts/chat-ou-bebe/public/sounds/chat-bebe/sound_50.mp3"
+type = "audio"
+title = "baby_raspberry"
+
+[[outputs]]
+id = "Ph-XKA8qyBv5cWQTeGGoU"
+uri = "file://artifacts/chat-ou-bebe/public/sounds/ronflement-moteur/sound_01.mp3"
+type = "audio"
+title = "snoring_diesel"
+
+[[outputs]]
+id = "PUAOoFkKwtfI_fVFRpdqU"
+uri = "file://artifacts/chat-ou-bebe/public/sounds/ronflement-moteur/sound_02.mp3"
+type = "audio"
+title = "diesel_idle"
+
+[[outputs]]
+id = "xUxh7P_LYdRmkYDFHTcWZ"
+uri = "file://artifacts/chat-ou-bebe/public/sounds/ronflement-moteur/sound_04.mp3"
+type = "audio"
+title = "motorcycle_idle"
+
+[[outputs]]
+id = "0XHdWozp95k5-JAu9XnY4"
+uri = "file://artifacts/chat-ou-bebe/public/sounds/ronflement-moteur/sound_05.mp3"
+type = "audio"
+title = "snoring_truck_bass"
+
+[[outputs]]
+id = "GjK5w1XagAYh8Eg41jhvP"
+uri = "file://artifacts/chat-ou-bebe/public/sounds/ronflement-moteur/sound_06.mp3"
+type = "audio"
+title = "lawnmower_steady"
+
+[[outputs]]
+id = "OfonsEnkxQBUYqRUPhp0_"
+uri = "file://artifacts/chat-ou-bebe/public/sounds/ronflement-moteur/sound_11.mp3"
+type = "audio"
+title = "snoring_loud_continuous"
+
+[[outputs]]
+id = "_rBnGjL_DJ-BzWW9VksJE"
+uri = "file://artifacts/chat-ou-bebe/public/sounds/ronflement-moteur/sound_08.mp3"
+type = "audio"
+title = "car_struggle_start"
+
+[[outputs]]
+id = "SEL2Oynk2oWUQiI2tNE1N"
+uri = "file://artifacts/chat-ou-bebe/public/sounds/ronflement-moteur/sound_07.mp3"
+type = "audio"
+title = "snoring_irregular"
+
+[[outputs]]
+id = "QWCXu04Bw_e0w7XFqcQ1R"
+uri = "file://artifacts/chat-ou-bebe/public/sounds/ronflement-moteur/sound_14.mp3"
+type = "audio"
+title = "truck_idle"
+
+[[outputs]]
+id = "-ZHzVQpTBXzTUiYB8tl63"
+uri = "file://artifacts/chat-ou-bebe/public/sounds/ronflement-moteur/sound_09.mp3"
+type = "audio"
+title = "snoring_nasal_high"
+
+[[outputs]]
+id = "7-jc3S9pz6bwsF672s-mu"
+uri = "file://artifacts/chat-ou-bebe/public/sounds/ronflement-moteur/sound_12.mp3"
+type = "audio"
+title = "fridge_motor"
+
+[[outputs]]
+id = "vf9gBmLz_U1225sJr6QLV"
+uri = "file://artifacts/chat-ou-bebe/public/sounds/ronflement-moteur/sound_15.mp3"
+type = "audio"
+title = "snoring_snort"
+
+[[outputs]]
+id = "IsN1mzgHKK7Tjjf8o8X4A"
+uri = "file://artifacts/chat-ou-bebe/public/sounds/ronflement-moteur/sound_18.mp3"
+type = "audio"
+title = "industrial_fan"
+
+[[outputs]]
+id = "jzrjpBG_62kJbdcy_d0Jk"
+uri = "file://artifacts/chat-ou-bebe/public/sounds/ronflement-moteur/sound_19.mp3"
+type = "audio"
+title = "snoring_rapid_shallow"
+
+[[outputs]]
+id = "YW_HV1W6FFK0e6D2NIdh_"
+uri = "file://artifacts/chat-ou-bebe/public/sounds/ronflement-moteur/sound_17.mp3"
+type = "audio"
+title = "snoring_deep_powerful"
+
+[[outputs]]
+id = "j72P6ztJBOA45M4g34mdX"
+uri = "file://artifacts/chat-ou-bebe/public/sounds/ronflement-moteur/sound_21.mp3"
+type = "audio"
+title = "snoring_crescendo"
+
+[[outputs]]
+id = "z4slg4W1jQKtk8-JuK8WI"
+uri = "file://artifacts/chat-ou-bebe/public/sounds/ronflement-moteur/sound_20.mp3"
+type = "audio"
+title = "washing_machine"
+
+[[outputs]]
+id = "96mJSC0Q3jJmz5wf0yku1"
+uri = "file://artifacts/chat-ou-bebe/public/sounds/ronflement-moteur/sound_22.mp3"
+type = "audio"
+title = "chainsaw_idle"
+
+[[outputs]]
+id = "n0TfzTlqi0nQW9-Yp6NKB"
+uri = "file://artifacts/chat-ou-bebe/public/sounds/ronflement-moteur/sound_23.mp3"
+type = "audio"
+title = "snoring_wheeze"
+
+[[outputs]]
+id = "0DqLFFZ-Kz6eLoQxP7rKk"
+uri = "file://artifacts/chat-ou-bebe/public/sounds/ronflement-moteur/sound_25.mp3"
+type = "audio"
+title = "snoring_heavy"
+
+[[outputs]]
+id = "nXhHdMPryH4yQDtTRDuKu"
+uri = "file://artifacts/chat-ou-bebe/public/sounds/ronflement-moteur/sound_24.mp3"
+type = "audio"
+title = "car_rough_idle"
+
+[[outputs]]
+id = "9ZBS-u6T2v4R-1zTXAzms"
+uri = "file://artifacts/chat-ou-bebe/public/sounds/ronflement-moteur/sound_29.mp3"
+type = "audio"
+title = "snoring_buzzy"
+
+[[outputs]]
+id = "U7Ea9U0eswbeuMPlmIujB"
+uri = "file://artifacts/chat-ou-bebe/public/sounds/ronflement-moteur/sound_28.mp3"
+type = "audio"
+title = "moped_idle"
+
+[[outputs]]
+id = "NFHj8a1_7yhDwWyPa97ZE"
+uri = "file://artifacts/chat-ou-bebe/public/sounds/ronflement-moteur/sound_30.mp3"
+type = "audio"
+title = "generator_outdoor"
+
+[[outputs]]
+id = "XWw9kyKlF0rxEdT_-cgPC"
+uri = "file://artifacts/chat-ou-bebe/public/sounds/ronflement-moteur/sound_31.mp3"
+type = "audio"
+title = "snoring_generator_like"
+
+[[outputs]]
+id = "Wg7tX5AOQT7LMwPWUXdZq"
+uri = "file://artifacts/chat-ou-bebe/public/sounds/ronflement-moteur/sound_33.mp3"
+type = "audio"
+title = "snoring_wet_rattle"
+
+[[outputs]]
+id = "yew-HZceM-XzhUJFv3rXb"
+uri = "file://artifacts/chat-ou-bebe/public/sounds/ronflement-moteur/sound_32.mp3"
+type = "audio"
+title = "gokart_idle"
+
+[[outputs]]
+id = "tgYmHZXcnRxR6QBjVspxK"
+uri = "file://artifacts/chat-ou-bebe/public/sounds/ronflement-moteur/sound_37.mp3"
+type = "audio"
+title = "snoring_gentle_engine"
+
+[[outputs]]
+id = "iajIvDz3Y0Me4kwuLG_EF"
+uri = "file://artifacts/chat-ou-bebe/public/sounds/ronflement-moteur/sound_34.mp3"
+type = "audio"
+title = "bus_engine_idle"
+
+[[outputs]]
+id = "HXahPwm8zCQsFZIBhAx1d"
+uri = "file://artifacts/chat-ou-bebe/public/sounds/ronflement-moteur/sound_38.mp3"
+type = "audio"
+title = "vacuum_motor"
+
+[[outputs]]
+id = "mfOImCIHM_jxAqftyXXy-"
+uri = "file://artifacts/chat-ou-bebe/public/sounds/ronflement-moteur/sound_39.mp3"
+type = "audio"
+title = "snoring_rattling"
+
+[[outputs]]
+id = "exde_lSTcsTuG6HcjqbjE"
+uri = "file://artifacts/chat-ou-bebe/public/sounds/ronflement-moteur/sound_40.mp3"
+type = "audio"
+title = "motorboat_slow"
+
+[[outputs]]
+id = "Nk0pbL_PrARpEXMMUxK6K"
+uri = "file://artifacts/chat-ou-bebe/public/sounds/ronflement-moteur/sound_42.mp3"
+type = "audio"
+title = "pump_motor"
+
+[[outputs]]
+id = "bpAF9MmxDYYDQuBTKMtkA"
+uri = "file://artifacts/chat-ou-bebe/public/sounds/ronflement-moteur/sound_44.mp3"
+type = "audio"
+title = "cement_mixer"
+
+[[outputs]]
+id = "AUg2voK0gRfDngHyAUiIy"
+uri = "file://artifacts/chat-ou-bebe/public/sounds/ronflement-moteur/sound_43.mp3"
+type = "audio"
+title = "snoring_oscillating"
+
+[[outputs]]
+id = "6fzo-HUZkxpPEtXW9nH80"
+uri = "file://artifacts/chat-ou-bebe/public/sounds/ronflement-moteur/sound_41.mp3"
+type = "audio"
+title = "snoring_intense"
+
+[[outputs]]
+id = "7ibsQBvcuqldpSVYABY-L"
+uri = "file://artifacts/chat-ou-bebe/public/sounds/ronflement-moteur/sound_45.mp3"
+type = "audio"
+title = "snoring_build_relax"
+
+[[outputs]]
+id = "P1kDZzFHvWnH3Ahe2nC0p"
+uri = "file://artifacts/chat-ou-bebe/public/sounds/ronflement-moteur/sound_47.mp3"
+type = "audio"
+title = "snoring_grumble"
+
+[[outputs]]
+id = "HJMqUPzYzqDRYhq2HspTP"
+uri = "file://artifacts/chat-ou-bebe/public/sounds/ronflement-moteur/sound_48.mp3"
+type = "audio"
+title = "hvac_unit"
+
+[[outputs]]
+id = "V_l0nL_fQW6JUtQ3v9XqT"
+uri = "file://artifacts/chat-ou-bebe/public/sounds/ronflement-moteur/sound_50.mp3"
+type = "audio"
+title = "aircraft_idle"
+
+[[outputs]]
+id = "NVMoezXfuGoxJlCbewSbZ"
+uri = "file://artifacts/chat-ou-bebe/public/sounds/ronflement-moteur/sound_49.mp3"
+type = "audio"
+title = "snoring_irregular_rapid"
