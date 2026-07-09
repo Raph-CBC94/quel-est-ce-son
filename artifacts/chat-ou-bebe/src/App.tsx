@@ -248,6 +248,128 @@ const CATEGORIES = {
       { file: 'sound_50.mp3', answer: 'galipette', hint: "Ce long soupir final d'épanouissement..." },
     ],
   },
+  dentisteAmants: {
+    id: 'dentiste-amants',
+    title: 'Dentiste ou Amants ?',
+    emoji: '🦷😏',
+    subtitle: 'Cabinet dentaire ou cabinet secret ?',
+    optionA: { label: 'Dentiste', emoji: '🦷', key: 'dentiste' as const },
+    optionB: { label: 'Amants', emoji: '😏', key: 'amants' as const },
+    folder: 'dentiste-amants',
+    questions: [
+      { file: 'sound_01.mp3', answer: 'dentiste', hint: "Cette fraise qui tourne et ce gémissement muffled..." },
+      { file: 'sound_02.mp3', answer: 'amants',   hint: "Ces soupirs intimes et doux..." },
+      { file: 'sound_03.mp3', answer: 'dentiste', hint: "'Ouvrez plus grand !' + les plaintes du patient..." },
+      { file: 'sound_04.mp3', answer: 'amants',   hint: "Cette respiration qui s'emballe..." },
+      { file: 'sound_05.mp3', answer: 'dentiste', hint: "Ce gémissement quand la seringue entre dans la gencive..." },
+      { file: 'sound_06.mp3', answer: 'amants',   hint: "Ces gémissements profonds d'affection..." },
+      { file: 'sound_07.mp3', answer: 'dentiste', hint: "L'aspiration + le soupir du patient..." },
+      { file: 'sound_08.mp3', answer: 'amants',   hint: "Ces souffles passionnés qui s'accélèrent..." },
+      { file: 'sound_09.mp3', answer: 'dentiste', hint: "Ce patient qui essaie de parler bouche engourdie..." },
+      { file: 'sound_10.mp3', answer: 'amants',   hint: "Ces murmures tendres à deux..." },
+      { file: 'sound_11.mp3', answer: 'dentiste', hint: "Ce nerf touché — l'inspiration brusque puis le gémissement..." },
+      { file: 'sound_12.mp3', answer: 'amants',   hint: "Ces halètements intimes qui montent..." },
+      { file: 'sound_13.mp3', answer: 'dentiste', hint: "La polisseuse qui vibre + le patient qui vibre aussi..." },
+      { file: 'sound_14.mp3', answer: 'amants',   hint: "Ces soupirs de satisfaction lente..." },
+      { file: 'sound_15.mp3', answer: 'dentiste', hint: "L'anxiété avant la fraise..." },
+      { file: 'sound_16.mp3', answer: 'amants',   hint: "Ces chuchotements amoureux..." },
+      { file: 'sound_17.mp3', answer: 'dentiste', hint: "L'extraction + le long gémissement de soulagement..." },
+      { file: 'sound_18.mp3', answer: 'amants',   hint: "Ces vocalises intimes au paroxysme..." },
+      { file: 'sound_19.mp3', answer: 'dentiste', hint: "Parler la bouche pleine d'instruments..." },
+      { file: 'sound_20.mp3', answer: 'amants',   hint: "Ces rires qui virent en soupirs..." },
+      { file: 'sound_21.mp3', answer: 'dentiste', hint: "Le détartreur ultrasonique + la grimace sonore..." },
+      { file: 'sound_22.mp3', answer: 'amants',   hint: "Ces gémissements profonds partagés..." },
+      { file: 'sound_23.mp3', answer: 'dentiste', hint: "Le gargarisme dramatique dans le crachoir..." },
+      { file: 'sound_24.mp3', answer: 'amants',   hint: "Ces murmures de complicité..." },
+      { file: 'sound_25.mp3', answer: 'dentiste', hint: "L'abcès pressé — cri puis soulagement..." },
+      { file: 'sound_26.mp3', answer: 'amants',   hint: "Ce dernier soupir d'épanouissement..." },
+      { file: 'sound_27.mp3', answer: 'dentiste', hint: "Le traitement de canal — long et douloureux..." },
+      { file: 'sound_28.mp3', answer: 'amants',   hint: "Cette respiration rythmée douce..." },
+      { file: 'sound_29.mp3', answer: 'dentiste', hint: "L'empreinte dentaire + le réflexe nauséeux..." },
+      { file: 'sound_30.mp3', answer: 'amants',   hint: "Ces murmures chaleureux intimes..." },
+      { file: 'sound_31.mp3', answer: 'dentiste', hint: "'C'est fini !' + le soupir de survie..." },
+      { file: 'sound_32.mp3', answer: 'amants',   hint: "Ces vocalises croissantes et urgentes..." },
+      { file: 'sound_33.mp3', answer: 'dentiste', hint: "La radio dentaire dans la bouche — muffled..." },
+      { file: 'sound_34.mp3', answer: 'amants',   hint: "Ces sons chauds et aimants..." },
+      { file: 'sound_35.mp3', answer: 'dentiste', hint: "L'enfant terrorisé avant la fraise..." },
+      { file: 'sound_36.mp3', answer: 'amants',   hint: "Ces sons à peine audibles de tendresse..." },
+      { file: 'sound_37.mp3', answer: 'dentiste', hint: "Les points de suture dans la gencive..." },
+      { file: 'sound_38.mp3', answer: 'amants',   hint: "Ces sons doux partagés..." },
+      { file: 'sound_39.mp3', answer: 'dentiste', hint: "La dent de sagesse arrachée — le craquement + le moan..." },
+      { file: 'sound_40.mp3', answer: 'amants',   hint: "Ces souffles intimes rythmés ensemble..." },
+      { file: 'sound_41.mp3', answer: 'dentiste', hint: "La couronne provisoire mise en place..." },
+      { file: 'sound_42.mp3', answer: 'amants',   hint: "Ces vocalises partagées de plaisir..." },
+      { file: 'sound_43.mp3', answer: 'dentiste', hint: "Les écarteurs buccaux + la plainte étirée..." },
+      { file: 'sound_44.mp3', answer: 'amants',   hint: "Ces soupirs post-tendresse comblés..." },
+      { file: 'sound_45.mp3', answer: 'dentiste', hint: "Le plateau de fluor gardé 2 minutes — l'impatience..." },
+      { file: 'sound_46.mp3', answer: 'amants',   hint: "Ces sons d'amour lents et doux..." },
+      { file: 'sound_47.mp3', answer: 'dentiste', hint: "La gouttière de bruxisme + le réflexe de déglutition..." },
+      { file: 'sound_48.mp3', answer: 'amants',   hint: "Ces désirs chuchotés..." },
+      { file: 'sound_49.mp3', answer: 'dentiste', hint: "'C'est terminé' — le long exhale de survie..." },
+      { file: 'sound_50.mp3', answer: 'amants',   hint: "Ces derniers soupirs tendres qui s'effacent..." },
+    ],
+  },
+  horreurChambre: {
+    id: 'horreur-chambre',
+    title: "Film d'horreur ou Chambre ?",
+    emoji: '😱🛏️',
+    subtitle: 'Terreur ou plaisir ?',
+    optionA: { label: "Film d'horreur", emoji: '😱', key: 'horreur' as const },
+    optionB: { label: 'Chambre', emoji: '🛏️', key: 'chambre' as const },
+    folder: 'horreur-chambre',
+    questions: [
+      { file: 'sound_01.mp3', answer: 'horreur', hint: "Ces gémissements apeurés dans le noir..." },
+      { file: 'sound_02.mp3', answer: 'chambre', hint: "Ces soupirs tendres intimes..." },
+      { file: 'sound_03.mp3', answer: 'horreur', hint: "Ce halètement de terreur pure..." },
+      { file: 'sound_04.mp3', answer: 'chambre', hint: "Ces vocalises de plaisir qui montent..." },
+      { file: 'sound_05.mp3', answer: 'horreur', hint: "Cette respiration paniquée cachée..." },
+      { file: 'sound_06.mp3', answer: 'chambre', hint: "Ces souffles passionnés ensemble..." },
+      { file: 'sound_07.mp3', answer: 'horreur', hint: "Ces 'non non non' terrifiés..." },
+      { file: 'sound_08.mp3', answer: 'chambre', hint: "Cette intensité croissante intime..." },
+      { file: 'sound_09.mp3', answer: 'horreur', hint: "L'hyperventilation de terreur absolue..." },
+      { file: 'sound_10.mp3', answer: 'chambre', hint: "Ces soupirs doux partagés..." },
+      { file: 'sound_11.mp3', answer: 'horreur', hint: "Ce gémissement de désespoir prolongé..." },
+      { file: 'sound_12.mp3', answer: 'chambre', hint: "Ces halètements passionnés urgents..." },
+      { file: 'sound_13.mp3', answer: 'horreur', hint: "Ces petits couinements de terreur cachée..." },
+      { file: 'sound_14.mp3', answer: 'chambre', hint: "Ces gémissements profonds de contentement..." },
+      { file: 'sound_15.mp3', answer: 'horreur', hint: "Ce gémissement post-traumatique..." },
+      { file: 'sound_16.mp3', answer: 'chambre', hint: "Ces vocalises rythmiques intimes..." },
+      { file: 'sound_17.mp3', answer: 'horreur', hint: "'Allô? Il y a quelqu'un?' tremblant..." },
+      { file: 'sound_18.mp3', answer: 'chambre', hint: "Ces sons au paroxysme intime..." },
+      { file: 'sound_19.mp3', answer: 'horreur', hint: "Le tremblement contre le mur..." },
+      { file: 'sound_20.mp3', answer: 'chambre', hint: "Ces soupirs comblés et doux..." },
+      { file: 'sound_21.mp3', answer: 'horreur', hint: "Ces gémissements fantomatiques derrière la porte..." },
+      { file: 'sound_22.mp3', answer: 'chambre', hint: "Ces vocalises de satisfaction mutuelle..." },
+      { file: 'sound_23.mp3', answer: 'horreur', hint: "Le cri étouffé dans la main..." },
+      { file: 'sound_24.mp3', answer: 'chambre', hint: "Ces soupirs post-intimité apaisés..." },
+      { file: 'sound_25.mp3', answer: 'horreur', hint: "'Au secours...' chuchoté dans la panique..." },
+      { file: 'sound_26.mp3', answer: 'chambre', hint: "Ces sons doux et passionnés..." },
+      { file: 'sound_27.mp3', answer: 'horreur', hint: "L'imploration désespérée dans un coin..." },
+      { file: 'sound_28.mp3', answer: 'chambre', hint: "Ces gémissements doux rythmés..." },
+      { file: 'sound_29.mp3', answer: 'horreur', hint: "La maison hantée — le craquement puis le halètement..." },
+      { file: 'sound_30.mp3', answer: 'chambre', hint: "Ces sons chaleureux croissants ensemble..." },
+      { file: 'sound_31.mp3', answer: 'horreur', hint: "Le zombie qui emporte la victime — ses derniers sons..." },
+      { file: 'sound_32.mp3', answer: 'chambre', hint: "Ces vocalises de plaisir partagé..." },
+      { file: 'sound_33.mp3', answer: 'horreur', hint: "Le cri qui se transforme en moan épuisé..." },
+      { file: 'sound_34.mp3', answer: 'chambre', hint: "Ces murmures amoureux tendres..." },
+      { file: 'sound_35.mp3', answer: 'horreur', hint: "La victime ligotée — muffled et effrayée..." },
+      { file: 'sound_36.mp3', answer: 'chambre', hint: "Ces gémissements lents et tendres..." },
+      { file: 'sound_37.mp3', answer: 'horreur', hint: "La possession — guttural et effrayant..." },
+      { file: 'sound_38.mp3', answer: 'chambre', hint: "Ces sons intimes qui culminent..." },
+      { file: 'sound_39.mp3', answer: 'horreur', hint: "La final girl épuisée après l'ordeal..." },
+      { file: 'sound_40.mp3', answer: 'chambre', hint: "Ces murmures post-intimité comblés..." },
+      { file: 'sound_41.mp3', answer: 'horreur', hint: "L'ami impossible à réveiller — la terreur..." },
+      { file: 'sound_42.mp3', answer: 'chambre', hint: "Ces sons de désir et chaleur..." },
+      { file: 'sound_43.mp3', answer: 'horreur', hint: "Le personnage qui réalise qu'il est piégé..." },
+      { file: 'sound_44.mp3', answer: 'chambre', hint: "Ces soupirs d'après tendresse..." },
+      { file: 'sound_45.mp3', answer: 'horreur', hint: "'Qui est là ?' dans l'obscurité tremblante..." },
+      { file: 'sound_46.mp3', answer: 'chambre', hint: "Ces vocalises libérées ensemble..." },
+      { file: 'sound_47.mp3', answer: 'horreur', hint: "Le contact surnaturel — le frisson moan..." },
+      { file: 'sound_48.mp3', answer: 'chambre', hint: "Ces sons à peine audibles de plénitude..." },
+      { file: 'sound_49.mp3', answer: 'horreur', hint: "Le dernier cri + le silence + le gémissement..." },
+      { file: 'sound_50.mp3', answer: 'chambre', hint: "Ce long soupir final de satisfaction absolue..." },
+    ],
+  },
 };
 
 const MESSAGES = {
@@ -325,6 +447,42 @@ const MESSAGES = {
     wrongThoughtB: [
       "Piégé(e) ! C'était purement médical 😂",
       "Ce masseur mérite une plainte pour ambiguïté sonore !"
+    ]
+  },
+  dentisteAmants: {
+    correctA: [
+      "C'était bien le dentiste ! Courage 🦷",
+      "Vos oreilles reconnaissent la douleur !"
+    ],
+    correctB: [
+      "C'était bien des amants 😏",
+      "Vos oreilles ne mentent pas !"
+    ],
+    wrongThoughtA: [
+      "Ce n'était pas médical... 😂",
+      "Ce dentiste aurait des comptes à rendre !"
+    ],
+    wrongThoughtB: [
+      "Piégé(e) ! C'était le dentiste 🦷",
+      "Ce cabinet dentaire mérite une enquête !"
+    ]
+  },
+  horreurChambre: {
+    correctA: [
+      "C'était un film d'horreur ! Courageux(se) 😱",
+      "Vos oreilles distinguent la terreur !"
+    ],
+    correctB: [
+      "C'était la chambre ! Bien vu 🛏️",
+      "Rien ne vous échappe !"
+    ],
+    wrongThoughtA: [
+      "Ce n'était pas effrayant... enfin ça dépend 😂",
+      "Ce film d'horreur serait plutôt classé autrement !"
+    ],
+    wrongThoughtB: [
+      "Piégé(e) ! C'était un film d'horreur 😱",
+      "Vous regardez des films d'horreur bizarres !"
     ]
   }
 };
@@ -456,7 +614,7 @@ function App() {
             initial={{ opacity: 0, y: 30 }}
             animate={{ opacity: 1, y: 0 }}
             exit={{ opacity: 0, y: -30 }}
-            className="flex flex-col items-center max-w-4xl w-full gap-12"
+            className="flex flex-col items-center max-w-6xl w-full gap-12"
           >
             <div className="text-center">
               <h1 className="text-5xl md:text-7xl font-bold mb-4 tracking-tight leading-tight text-foreground">
@@ -467,7 +625,7 @@ function App() {
               </p>
             </div>
             
-            <div className="grid grid-cols-1 md:grid-cols-2 gap-6 w-full px-4">
+            <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 w-full px-4">
               {(Object.entries(CATEGORIES) as [CategoryKey, typeof CATEGORIES[CategoryKey]][]).map(([key, cat]) => (
                 <button
                   key={key}
@@ -476,7 +634,9 @@ function App() {
                     key === 'chatBebe' ? 'bg-secondary text-secondary-foreground' : 
                     key === 'ronflementMoteur' ? 'bg-primary text-primary-foreground' : 
                     key === 'sportCalin' ? 'bg-[#ff4500] text-white' : 
-                    'bg-[#673ab7] text-white'
+                    key === 'massageGalipette' ? 'bg-[#673ab7] text-white' : 
+                    key === 'dentisteAmants' ? 'bg-[#0f766e] text-white' : 
+                    'bg-[#e11d48] text-white'
                   }`}
                 >
                   <div className="text-7xl md:text-8xl group-hover:scale-110 transition-transform duration-300 ease-out mb-2">
