@@ -2,7 +2,7 @@ services:
   - type: web
     name: chat-ou-bebe
     env: node
-    buildCommand: npx --yes pnpm@9 install --frozen-lockfile && npx --yes pnpm@9 --filter @workspace/chat-ou-bebe run build
+    buildCommand: mkdir -p .pnpm-bin && curl -fsSL https://github.com/pnpm/pnpm/releases/download/v9.15.9/pnpm-linux-x64 -o .pnpm-bin/pnpm && chmod +x .pnpm-bin/pnpm && .pnpm-bin/pnpm install --frozen-lockfile && .pnpm-bin/pnpm --filter @workspace/chat-ou-bebe run build
     startCommand: npx serve@14 artifacts/chat-ou-bebe/dist/public --listen $PORT --single
     envVars:
       - key: NODE_ENV
