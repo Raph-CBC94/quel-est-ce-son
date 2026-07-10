@@ -2,7 +2,7 @@ services:
   - type: web
     name: chat-ou-bebe
     env: node
-    buildCommand: npm install -g pnpm && pnpm install --frozen-lockfile && pnpm --filter @workspace/chat-ou-bebe run build
+    buildCommand: corepack enable && pnpm install --frozen-lockfile && pnpm --filter @workspace/chat-ou-bebe run build
     startCommand: npx serve@14 artifacts/chat-ou-bebe/dist/public --listen $PORT --single
     envVars:
       - key: NODE_ENV
