@@ -910,9 +910,17 @@ function App() {
           >
             <div className="text-center">
               <div className="flex items-center justify-center gap-3 mb-4">
-                <span className="inline-flex items-center justify-center w-12 h-12 md:w-16 md:h-16 rounded-2xl md:rounded-3xl bg-[#FF3C00] text-white text-2xl md:text-3xl shadow-lg" aria-hidden="true">🎧</span>
+                <span className="inline-flex items-center justify-center w-12 h-12 md:w-16 md:h-16 rounded-2xl md:rounded-3xl bg-[#FF3C00] shadow-lg" aria-hidden="true">
+                  <svg width="32" height="32" viewBox="0 0 180 180" fill="none" xmlns="http://www.w3.org/2000/svg" className="md:w-10 md:h-10">
+                    <rect width="180" height="180" rx="36" fill="#FF3C00"/>
+                    <path d="M55 95 C55 62 73 45 90 45 C107 45 125 62 125 95" stroke="white" strokeWidth="12" fill="none" strokeLinecap="round"/>
+                    <rect x="50" y="88" width="28" height="42" rx="10" fill="white"/>
+                    <rect x="102" y="88" width="28" height="42" rx="10" fill="white"/>
+                    <path d="M90 48 L90 38" stroke="white" strokeWidth="10" strokeLinecap="round"/>
+                  </svg>
+                </span>
                 <h1 className="text-5xl md:text-7xl font-bold tracking-tight leading-tight text-foreground">
-                  Chat ou Bébé ?
+                  Quel est<br/>ce son ?
                 </h1>
               </div>
               <p className="text-xl md:text-2xl text-muted-foreground">
